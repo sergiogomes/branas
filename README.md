@@ -2,10 +2,30 @@
 
 ## Execute
 
-To run the project (tsconfig.json):
+To run the project (src/main.ts):
 
 ```sh
 npx ts-node src/main.ts
+```
+
+Or
+
+```sh
+npm run main
+```
+
+## Test
+
+To test the project (test):
+
+```sh
+npx jest
+```
+
+Or
+
+```sh
+npm run test
 ```
 
 ## How this was created
